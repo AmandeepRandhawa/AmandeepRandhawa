@@ -1,6 +1,66 @@
 <h1 align="center">Hi 👋, I'm Amandeep Kaur Randhawa</h1>
 <h3 align="center">A passionate Data Scientist from Canada</h3>
+<h1 align="center">Hi there 👋, I'm Amandeep Randhawa</h1>
+<h3 align="center">A Passionate Data Scientist & ML Enthusiast</h3>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-yellowgreen" />
+  <img src="https://img.shields.io/badge/Data%20Visualization-orange" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+
+- 🧑‍💻 Data Scientist passionate about uncovering insights from data and building impactful ML solutions.
+- 🔭 Currently working on projects involving **Machine Learning, Deep Learning, and Data Visualization**.
+- 📚 Always learning new things about **AI, ML Ops, and Big Data technologies**.
+- 💬 Ask me about **Python, Pandas, scikit-learn, TensorFlow, SQL, data wrangling, and storytelling**.
+- 🌱 Currently exploring **generative AI** and **large language models**.
+
+---
+
+### 🚀 My Skillset
+
+- **Programming:** Python, R, SQL, Bash
+- **ML Frameworks:** scikit-learn, TensorFlow, PyTorch, XGBoost
+- **Data Viz:** matplotlib, seaborn, Plotly, Power BI, Tableau
+- **Cloud & Big Data:** AWS, GCP, Azure, Spark, Hadoop
+- **Tools:** Git, Docker, Jupyter, VS Code
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AmandeepRandhawa&show_icons=true&theme=radical" alt="Amandeep's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmandeepRandhawa&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### 🚩 Featured Projects
+
+- [Project 1: Titanic-Survival-Prediction-using-Logistic-Regression](https://github.com/AmandeepRandhawa/Titanic-Survival-Prediction-using-Logistic-Regression)  
+  *End-to-end survival forecasting using ML pipelines and feature engineering.*
+
+- [Project 2: EnvironicsAnalytics-Reviving-Loyalty-A-Data-Driven-Re-Engagement-Plan-for-Wander-Luxe](https://github.com/AmandeepRandhawa/EnvironicsAnalytics-Reviving-Loyalty-A-Data-Driven-Re-Engagement-Plan-for-Wander-Luxe)  
+  *Sentiment classification using deep learning and text embeddings.*
+
+- [Project 3: Ontario-Library-Financial-Analysis](https://github.com/AmandeepRandhawa/Ontario-Library-Financial-Analysis)  
+  *Interactive dashboards for Financial intelligence and reporting.*
+
+---
+
+
+---
+
+<p align="center">
+  🧠 <i>“Data is the new oil.”</i>
+</p>
 - 👨‍💻 All of my projects are available at [https://github.com/AmandeepRandhawa](https://github.com/AmandeepRandhawa)
 
 - 💬 Ask me about **Python, R, Sql, ML, Data mining**
