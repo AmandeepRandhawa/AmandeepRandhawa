@@ -51,6 +51,10 @@
 - [Project 3: Ontario-Library-Financial-Analysis](https://github.com/AmandeepRandhawa/Ontario-Library-Financial-Analysis)  
   *Interactive dashboards for Financial intelligence and reporting.*
 
+-[Project 3: K-Means-Clustering-Analysis-of-Protein-Consumption of European Countries ](https://github.com/AmandeepRandhawa/K-Means-Clustering-Analysis-of-Protein-Consumption)
+  *K mean Clusters of Protein Consumption and Analysis*
+
+
 ---
 
 
