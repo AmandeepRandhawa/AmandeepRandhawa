@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Amandeep Kaur Randhawa</h1>
-<h3 align="center">A passionate Data Scientist from Canada</h3>
 <h1 align="center">Hi there 👋, I'm Amandeep Randhawa</h1>
 <h3 align="center">A Passionate Data Scientist & ML Enthusiast</h3>
 
