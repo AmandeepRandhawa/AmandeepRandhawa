@@ -53,8 +53,7 @@
 
 -  [Project 4: K-Means-Clustering-Analysis-of-Protein-Consumption of European Countries ](https://github.com/AmandeepRandhawa/K-Means-Clustering-Analysis-of-Protein-Consumption)
   *K mean Clusters of Protein Consumption and Analysis*
-
--[Project 5: Predictive Modeling and Visual Insights into Animal Classes Using Support Vector Machine (SVM) and Advanced R Visualizations ](https://github.com/AmandeepRandhawa/Predictive-Modeling-into-Animal-Classes-Using-Support-Vector-Machine-SVM-and-Visual-Analysis)
+-  [Project 5: Predictive Modeling and Visual Insights into Animal Classes Using Support Vector Machine (SVM) and Advanced R Visualizations ](https://github.com/AmandeepRandhawa/Predictive-Modeling-into-Animal-Classes-Using-Support-Vector-Machine-SVM-and-Visual-Analysis)
 Advanced classification of animal types using machine learning models including SVM, Random Forest, and GBM, combined with powerful visualizations such as PCA, t-SNE, and LIME explainability in R.
 
 
